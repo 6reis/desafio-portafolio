@@ -1,0 +1,50 @@
+
+div.container{
+    background-color:#0d1117;;
+    margin: 20px;
+}
+header{
+    background-color:rgb(22, 27, 34);
+    height: 250px;
+    
+}
+h2, h3{
+   color: rgb(201, 209, 217);
+}
+p{
+    color:rgb(165, 214, 255)
+}
+li{
+    color: rgb(121, 192, 255)
+}
+.content{
+   margin: 20px;
+}
+.name{
+ display: flex;
+ justify-content:space-around;
+ flex-direction: column;
+ margin-left: 270px;
+ margin-top: -150px;
+ margin-bottom:10px;
+ font-size: large;
+
+}
+
+.cargo{
+    color:rgb(201, 209, 217); ;
+    margin-right: 50%;
+    margin-bottom:10px;
+  
+}
+a{
+    color: rgb(126, 231, 135)
+}
+
+img{
+    height: 200px;
+    width: 200px;
+    border-radius: 100px;
+    margin: 15px
+
+}
